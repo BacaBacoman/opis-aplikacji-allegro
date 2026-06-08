@@ -11,5 +11,11 @@ www_bama24_pl
 mbm-market
 netsim
 
+Aplikacja może realizować zadania:
+Pobieranie etykiet z WZA.
+Pobieraie aktualnej listy dla atrybutu Pasuje do telefonu. 
+Aktualizacja w aukcji atrybutu Pasuje do telefonu.
+
+
 
  
